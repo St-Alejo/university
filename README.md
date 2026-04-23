@@ -10,7 +10,6 @@ Se ha aplicado el **Patrón de Diseño Strategy** junto con **Polimorfismo (Here
 
 ## 1. Diagrama de Clases
 
-A continuación se presenta la representación del diagrama de clases (utilizando la sintaxis de Mermaid) para que puedas trasladarlo fácilmente a papel o visualizarlo directamente.
 
 ```mermaid
 classDiagram
