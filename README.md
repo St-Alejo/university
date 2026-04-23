@@ -1,10 +1,5 @@
 # Sistema de Notificaciones Universitarias
 
-Este proyecto es una API REST desarrollada con **Java**, **Spring Boot**, y **PostgreSQL** utilizando **Spring Data JPA**. El objetivo principal es gestionar y enviar notificaciones a los usuarios de la universidad según diversas situaciones y mediante diferentes canales (correo electrónico, SMS, y aplicación móvil).
-
-Se ha aplicado el **Patrón de Diseño Strategy** junto con **Polimorfismo (Herencia de Entidades)** para garantizar que el sistema pueda crecer fácilmente incorporando nuevos medios de notificación en el futuro sin modificar el código core (Open/Closed Principle).
-
-*Nota: Este proyecto fue desarrollado completamente SIN utilizar Lombok, como fue solicitado.*
 
 ---
 
